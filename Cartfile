@@ -1,0 +1,2 @@
+github "https://github.com/jedisct1/swift-sodium.git" >= 0.6
+github "https://github.com/a2/MessagePack.swift.git" ~> 2.1.1

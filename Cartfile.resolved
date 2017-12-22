@@ -1,0 +1,2 @@
+github "a2/MessagePack.swift" "2.1.1"
+github "jedisct1/swift-sodium" "0.6"
